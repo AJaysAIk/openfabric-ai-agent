@@ -10,7 +10,7 @@ Turn prompts into AI-generated images and transform those into 3D models using O
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/yourusername/openfabric-ai-agent.git
+git clone https://github.com/AJaysAIk/openfabric-ai-agent.git
 cd ai-developer-challenge
 pip install -r requirements.txt
 streamlit run interface.py  # or use Openfabric to run main logic
